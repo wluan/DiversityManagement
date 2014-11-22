@@ -1,0 +1,19 @@
+\\psf\Home\Documents\Dropbox\CIT 255 - Fall 2013\Lab 10\NewInLab10\bin\Debug\NewInLab10.exe.config
+\\psf\Home\Documents\Dropbox\CIT 255 - Fall 2013\Lab 10\NewInLab10\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Dropbox\CIT 255 - Fall 2013\Lab 10\NewInLab10\obj\x86\Debug\frmMain.resources
+\\psf\Home\Documents\Dropbox\CIT 255 - Fall 2013\Lab 10\NewInLab10\obj\x86\Debug\$safeprojectname$.Properties.Resources.resources
+\\psf\Home\Documents\Dropbox\CIT 255 - Fall 2013\Lab 10\NewInLab10\obj\x86\Debug\GenerateResource.read.1.tlog
+\\psf\Home\Documents\Dropbox\CIT 255 - Fall 2013\Lab 10\NewInLab10\obj\x86\Debug\GenerateResource.write.1.tlog
+\\psf\Home\Documents\Dropbox\CIT 255 - Fall 2013\Lab 10\NewInLab10\bin\Debug\NewInLab10.exe
+\\psf\Home\Documents\Dropbox\CIT 255 - Fall 2013\Lab 10\NewInLab10\bin\Debug\NewInLab10.pdb
+\\psf\Home\Documents\Dropbox\CIT 255 - Fall 2013\Lab 10\NewInLab10\obj\x86\Debug\NewInLab10.exe
+\\psf\Home\Documents\Dropbox\CIT 255 - Fall 2013\Lab 10\NewInLab10\obj\x86\Debug\NewInLab10.pdb
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 10\NewInLab10 - Copy\bin\Debug\NewInLab10.exe.config
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 10\NewInLab10 - Copy\obj\x86\Debug\NewInLab10.exe
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 10\NewInLab10 - Copy\obj\x86\Debug\NewInLab10.pdb
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 10\NewInLab10 - Copy\bin\Debug\NewInLab10.exe
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 10\NewInLab10 - Copy\bin\Debug\NewInLab10.pdb
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 10\NewInLab10 - Copy\obj\x86\Debug\NewInLab10.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 10\NewInLab10 - Copy\obj\x86\Debug\frmMain.resources
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 10\NewInLab10 - Copy\obj\x86\Debug\$safeprojectname$.Properties.Resources.resources
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 10\NewInLab10 - Copy\obj\x86\Debug\NewInLab10.csproj.GenerateResource.Cache

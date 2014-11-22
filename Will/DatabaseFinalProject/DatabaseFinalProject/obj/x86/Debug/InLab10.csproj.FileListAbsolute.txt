@@ -1,0 +1,13 @@
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 10\NewInLab10 - Copy\bin\Debug\InLab10.exe.config
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 10\InLab10\bin\Debug\InLab10.exe.config
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 10\InLab10\bin\Debug\InLab10.exe
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 10\InLab10\bin\Debug\InLab10.pdb
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 10\InLab10\obj\x86\Debug\InLab10.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 10\InLab10\obj\x86\Debug\frmMain.resources
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 10\InLab10\obj\x86\Debug\$safeprojectname$.Properties.Resources.resources
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 10\InLab10\obj\x86\Debug\InLab10.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 10\InLab10\obj\x86\Debug\InLab10.exe
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 10\InLab10\obj\x86\Debug\InLab10.pdb
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 11\InLab11\bin\Debug\InLab10.exe.config
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 11\InLab11\obj\x86\Debug\InLab10.exe
+\\psf\Home\Documents\Dropbox\Fall 2014 - CIT 255 TA\Lab 11\InLab11\obj\x86\Debug\InLab10.pdb
