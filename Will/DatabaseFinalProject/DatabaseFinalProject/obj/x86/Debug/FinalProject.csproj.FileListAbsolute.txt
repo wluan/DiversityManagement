@@ -1,3 +1,0 @@
-C:\Users\Weilong\Desktop\CNIT 255\DatabaseFinalProject\DatabaseFinalProject\bin\Debug\InLab11.exe.config
-C:\Users\Weilong\Desktop\CNIT 255\DatabaseFinalProject\DatabaseFinalProject\obj\x86\Debug\InLab11.exe
-C:\Users\Weilong\Desktop\CNIT 255\DatabaseFinalProject\DatabaseFinalProject\obj\x86\Debug\InLab11.pdb
